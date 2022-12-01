@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\obj\Debug\net6.0\TheGame.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\obj\Debug\net6.0\TheGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\obj\Debug\net6.0\TheGame.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\obj\Debug\net6.0\TheGame.AssemblyInfo.cs
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\obj\Debug\net6.0\TheGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\bin\Debug\net6.0\TheGame.exe
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\bin\Debug\net6.0\TheGame.deps.json
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\bin\Debug\net6.0\TheGame.runtimeconfig.json
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\bin\Debug\net6.0\TheGame.dll
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\bin\Debug\net6.0\TheGame.pdb
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\obj\Debug\net6.0\TheGame.dll
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\obj\Debug\net6.0\refint\TheGame.dll
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\obj\Debug\net6.0\TheGame.pdb
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\obj\Debug\net6.0\TheGame.genruntimeconfig.cache
+C:\Users\PC\Desktop\C_Sharp_Experiments\TheGame\obj\Debug\net6.0\ref\TheGame.dll
