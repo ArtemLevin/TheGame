@@ -8,10 +8,7 @@ int x; // первое взятие игроком 1
 int k; // взятие игроком 2
 int count; // счетчик шагов
 
-// первое взятие
-//count = 1;
-//Console.Write("Шаг номер: " + count);
-//Console.WriteLine(" ");
+
 x = N % (m+1);
 Console.Write("Первый игрок взял: " + x);
 Console.WriteLine(" ");
@@ -21,9 +18,6 @@ Console.WriteLine(" ");
 
 while (y >0)
 {
-    //count ++;
-    //Console.Write("Шаг номер: " + count);
-    //Console.WriteLine(" ");
     k = new Random().Next(1, m); // рандомизируем взятие игроком 2
     Console.Write("Второй игрок взял: " + k);
     Console.WriteLine(" ");
@@ -46,8 +40,5 @@ while (y >0)
         Console.Write("Победил игрок 1");
         Console.WriteLine(" ");
     }
-    //count ++;
-    //Console.Write("Шаг номер: " + count);
-    //Console.WriteLine(" ");
 
 }
