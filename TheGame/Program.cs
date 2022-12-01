@@ -30,12 +30,22 @@ while (y >0)
     y = y - k; // остаток от взятия игроком 2
     Console.Write("Осталось после взятия вторым игроком: " + y);
     Console.WriteLine(" ");
+        if (y == 0)
+    {
+        Console.Write("Победил игрок 2");
+        Console.WriteLine(" ");
+    }
     x = (m + 1) - k; // расчет взятия игроком 1
     Console.Write("Первый игрок взял: " + x);
     Console.WriteLine(" ");
     y = y - x; // остаток после взятия игроком 1
     Console.Write("Осталось после взятия первым игроком: " + y);
     Console.WriteLine(" ");
+    if (y == 0)
+    {
+        Console.Write("Победил игрок 1");
+        Console.WriteLine(" ");
+    }
     //count ++;
     //Console.Write("Шаг номер: " + count);
     //Console.WriteLine(" ");
